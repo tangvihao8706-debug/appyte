@@ -1,39 +1,33 @@
 # Healthcare Mobile App (Flutter)
 
 ## 📌 Description
-This is a mobile healthcare application developed using Flutter.  
-The app provides basic healthcare-related features and user interaction.
-
+This is a mobile healthcare application developed using Flutter, designed to provide basic healthcare-related functionalities and user interaction through a simple and intuitive interface.
 ## 🎯 Purpose
-This project was built to practice mobile app development and improve Flutter skills.
-
+This project was built to practice mobile application development using Flutter and to gain hands-on experience in building UI, navigation, and handling user interactions.
 ## 🚀 Features
-- User-friendly mobile interface
-- Basic healthcare interaction features
-- Navigation between screens
-- Data display
-
+.User-friendly and responsive mobile interface
+.Screen navigation between multiple pages
+.Display of healthcare-related information
+.Basic user interaction handling
 ## 🛠 Tech Stack
 - Flutter (Dart)
 
 ## ▶️ How to run
-1. Clone the repository
-2. Run:
-   flutter pub get
-3. Start app:
-   flutter run
+1. git clone <your-repo-link>
+2. cd <project-folder>
+3. flutter pub get
+4. flutter run
 
 ## 🎥 Demo Video
 [Watch Demo](https://youtu.be/So6PkJZFhSA)
 
-## 📷 Screenshots
-(Add screenshots here if available)
+
 
 ## 💡 What I learned
-- Learned Flutter project structure
-- Practiced building UI with Flutter
-- Improved debugging and problem-solving skills
-- Learned how to manage app layout and navigation
+-Understanding Flutter project structure
+-Building UI using Flutter widgets
+-Managing navigation between screens
+-Improving debugging and problem-solving skills
 
 ## 👨‍💻 Author
 Tang Vi Hao
